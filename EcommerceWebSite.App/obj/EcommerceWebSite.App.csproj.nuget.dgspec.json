@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj": {}
+    "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj": {}
   },
   "projects": {
-    "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj": {
+    "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
+        "projectUniqueName": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
         "projectName": "EcommerceWebSite.App",
-        "projectPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\obj\\",
+        "projectPath": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
+        "packagesPath": "C:\\Users\\SafaaKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SafaaKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -28,8 +28,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj": {
-                "projectPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj"
+              "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj": {
+                "projectPath": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj"
               }
             }
           }
@@ -43,50 +43,35 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj": {
+    "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj",
         "projectName": "EcommerceWebSite.Domain",
-        "projectPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\obj\\",
+        "projectPath": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj",
+        "packagesPath": "C:\\Users\\SafaaKamel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SafaaKamel\\Desktop\\dalia\\Graduation Project\\GraduationProject-ITI\\EcommerceWebSite.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SafaaKamel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -113,20 +98,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
