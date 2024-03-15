@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxeJGMP5iwzUQTicPTayT2iURRBEkfGbwN2SGqhXr7pmh5DNekwI2skhiDI9wV6GRItHI3x51dBd2FALh4f7IA==",
+  "dgSpecHash": "muKuK8UleIecxLKt/wJO0Jjn+5FmIu4/Vj2IepmnByy3vYV37ePpf+z4PQ6XNvB8nzHO965noUv/rfa6p90ESw==",
   "success": true,
-  "projectFilePath": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
+  "projectFilePath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",

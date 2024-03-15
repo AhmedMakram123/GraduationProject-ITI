@@ -13,7 +13,10 @@
 
   <ItemGroup>
     <Folder Include="Mapper\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EcommerceWebSite.Domain\EcommerceWebSite.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hr4tlGalU2Fs12Ezl6ZUKudWWettE/PPQcrOFad1xKPAvdhGRT0HLu6luClNRiQsJF6efjRaFmJBY1B1FXpxog==",
+  "dgSpecHash": "dUSmdOHYZ41HY/6HK2ohnhtT98QKjYQEjn0MJKdNbqxgPJqutcwDC1v572l37rjKqGabVp724jcMJaMMx0qQ+w==",
   "success": true,
-  "projectFilePath": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.Infrastractions\\EcommerceWebSite.Infrastractions.csproj",
+  "projectFilePath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Infrastractions\\EcommerceWebSite.Infrastractions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -4244,11 +4244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.Context\\EcommerceWebSite.Context.csproj",
+      "projectUniqueName": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Context\\EcommerceWebSite.Context.csproj",
       "projectName": "EcommerceWebSite.Context",
-      "projectPath": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.Context\\EcommerceWebSite.Context.csproj",
+      "projectPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Context\\EcommerceWebSite.Context.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.Context\\obj\\",
+      "outputPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Context\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",

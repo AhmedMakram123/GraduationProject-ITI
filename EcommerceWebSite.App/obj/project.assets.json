@@ -198,6 +198,19 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "EcommerceWebSite.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EcommerceWebSite.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EcommerceWebSite.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       }
     }
   },
@@ -553,10 +566,16 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "EcommerceWebSite.Domain/1.0.0": {
+      "type": "project",
+      "path": "../EcommerceWebSite.Domain/EcommerceWebSite.Domain.csproj",
+      "msbuildProject": "../EcommerceWebSite.Domain/EcommerceWebSite.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "EcommerceWebSite.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.3"
     ]
   },
@@ -566,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
+      "projectUniqueName": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
       "projectName": "EcommerceWebSite.App",
-      "projectPath": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
+      "projectPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\EcommerceWebSite.App.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "D:\\Iti\\GraduationProject-ITI\\EcommerceWebSite\\EcommerceWebSite.App\\obj\\",
+      "outputPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -586,7 +605,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj": {
+              "projectPath": "D:\\Iti\\GraduationProject-ITI\\New folder\\GraduationProject-ITI\\EcommerceWebSite.Domain\\EcommerceWebSite.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

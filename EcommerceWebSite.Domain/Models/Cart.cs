@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EcommerceWebSite.Domain.Models
 {
-    public class Card : BaseEntity
+    public class Cart : BaseEntity
     {
         public int Quantity { get; set; }
         public decimal TotalPrice { get; set; }
@@ -15,6 +16,9 @@ namespace EcommerceWebSite.Domain.Models
         [ForeignKey("Product")]
         public int ProductId { get; set; }
         public Product? Product { get; set; }
+        [ForeignKey("User")]
+        public int UserID { get; set; }
+        public User? User { get; set; }
 
     }
 }
